@@ -1,0 +1,22 @@
+{
+  "id": "app.example.com.dweb",
+  "name": "plaoc-html",
+  "short_name": "plaoc-html",
+  "description": "This is a sample application that includes instances of all dweb_plugins components.",
+  "logo": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiPjxwYXRoIGQ9Ik05MS4yNzUwNjE0Ny01LjgxNTMwODUxaDg0MS40NDk4NzcwNmE5Ny4wOTAzNjk5OSA5Ny4wOTAzNjk5OSAwIDAgMSA5Ny4wOTAzNjk5OCA5Ny4wOTAzNjk5OHY4NDEuNDQ5ODc3MDZhOTcuMDkwMzY5OTkgOTcuMDkwMzY5OTkgMCAwIDEtOTcuMDkwMzY5OTggOTcuMDkwMzY5OThIOTEuMjc1MDYxNDdhOTcuMDkwMzY5OTkgOTcuMDkwMzY5OTkgMCAwIDEtOTcuMDkwMzY5OTgtOTcuMDkwMzY5OThWOTEuMjc1MDYxNDdhOTcuMDkwMzY5OTkgOTcuMDkwMzY5OTkgMCAwIDEgOTcuMDkwMzY5OTgtOTcuMDkwMzY5OTh6IiBmaWxsPSIjRUM2NjMwIj48L3BhdGg+PHBhdGggZD0iTTI4OC42NDM2MDMzNCA2MzEuNTk5MTU0MDZoLTI5LjkyMDAxNTkzVjUxMC44NjcyNzg1MUgxMzYuNjE2MjY0ODJ2MTIwLjczMTg3NTU1SDEwNi4zNDAyNTA3NFYzNzYuOTE0OTMxNDloMzAuMjc2MDE0MDh2MTA0LjcyODE0NTkyaDEyMi4xMDczMjI1OXYtMTA0LjcyODE0NTkyaDI5LjkyMDAxNTkzdjI1NC42ODQyMjI1N3ogbTE3Mi45MDE3Njc0LTIyNS40NjAwMjE0N2gtNTUuNjY1MTQ1MTd2MjI1LjQ2MDAyMTQ3aC0zMC4yNzYwMTQwOFY0MDYuMTM5MTMyNTlIMzE5LjU5OTI0OTYzdi0yOS4yMjQyMDExaDE0MS45NDYxMjExMXYyOS4yMjQyMDExeiBtMzA2LjUxNDI5ODg4IDIyNS40NjAwMjE0N2gtMjkuNTgwMTk5MjVsLTIzLjY0MTUwNDQzLTE3My4yNzM5NDcwMi04NS41ODUxNjIyNCAxNzMuMjczOTQ3MDJoLTkuMDYxNzY3NGwtODYuNjM2OTc0MDgtMTc0LjY0OTM5NDA2LTIzLjY1NzY4NzA0IDE3NC42NDkzOTQwNmgtMjguODg0Mzg1NTZsMzYuMTgyMzQ0ODEtMjU0LjY4NDIyMjU3aDcuMjk3OTYwNGwxMDAuMTk3MjYyMjIgMjAyLjE0MjE1MTEgOTkuNTAxNDQ3NC0yMDIuMTQyMTUxMWg3LjI5Nzk1OTI1bDM2LjU3MDcwNTkyIDI1NC42ODQyMjI1N3ogbTE3MC40NzQ1MDk2NSAwaC0xMjYuMjk4MzkwNzZWMzc2LjkxNDkzMTQ5aDMwLjI1OTgzMjYxdjIyNS43OTk4MzgxNGg5Ni4wMzg1NTgxNXYyOC44ODQzODQ0M3oiIGZpbGw9IiNGRkZGRkYiPjwvcGF0aD48L3N2Zz4=",
+  "images": [
+    "http://qiniu-waterbang.waterbang.top/bfm/cot-home_2058.webp",
+    "http://qiniu-waterbang.waterbang.top/bfm/defi.png",
+    "http://qiniu-waterbang.waterbang.top/bfm/nft.png"
+  ],
+  "author": [
+    "bfs",
+    "bfs@bfs.com"
+  ],
+  "version": "1.0.1",
+  "change_log": "Added a new feature of shooting bubbles with a single click!",
+  "homepage_url": "https://dweb.waterbang.top:89",
+  "categories": [
+    "application"
+  ]
+}
