@@ -1,0 +1,15 @@
+{
+  "name": "@plaoc/html-demo",
+  "version": "0.1.0",
+  "nodeModulesDir": "auto",
+  "exports": {},
+  "tasks": {
+    "build": "deno run -A npm:vite build",
+    "plaoc:serve": "deno run -A npm:@plaoc/cli serve dist"
+  },
+  "imports": {
+    "@plaoc/is-dweb": "npm:@plaoc/is-dweb@0.1.2",
+    "@plaoc/plugins": "npm:@plaoc/plugins@1.1.9",
+    "@plaoc/cli": "npm:@plaoc/cli@1.2.1"
+  }
+}
