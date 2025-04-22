@@ -1,12 +1,11 @@
 {
   "name": "@plaoc/mcp",
-  "version": "0.1.0",
-  "exports": "./mod.ts",
+  "version": "0.0.1",
+  "exports": "./server.ts",
+  "lock": false,
   "tasks": {
-    "dev": "deno run -A server.ts"
+    "dev": "deno run -A server.ts",
+    "build": "deno run -A ./scripts/npm.ts"
   },
-  "license": "MIT",
-  "imports": {
-    "@std/assert": "jsr:@std/assert@1"
-  }
+  "license": "MIT"
 }
